@@ -189,7 +189,7 @@ If you use this work, please cite:
 
 ## 👤 Author
 
-**Reneth Saju**  
+**Reneth Raj Simon**  
 MS Computer Science — Columbia University  
 [GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
 
