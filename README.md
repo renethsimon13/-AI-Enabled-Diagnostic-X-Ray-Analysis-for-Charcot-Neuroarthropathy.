@@ -191,10 +191,7 @@ If you use this work, please cite:
 
 **Reneth Raj Simon**  
 MS Computer Science — Columbia University  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/renethsimon13) · [LinkedIn](https://www.linkedin.com/in/reneth-raj-simon-855153217/) · [Portfolio](https://renethsimon13.github.io/Reneth-Simon-Portfolio/)
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
