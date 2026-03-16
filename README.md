@@ -7,8 +7,7 @@
 
 > A dual-model deep learning pipeline for automated detection and localisation of Charcot neuroarthropathy from foot X-rays, combining multi-label classification (EfficientNet-B3) with semantic segmentation (DeepLabV3+).
 
-📄 **The research paper accompanying this project has been published in the *Indian Journal of Orthopaedics*.** → [Read the paper](https://doi.org/XXXXXXXX) *(replace with your DOI)*
-
+📄 **The research paper accompanying this project has been published in the *Indian Journal of Orthopaedics*.** → [Read the paper](https://doi.org/10.1007/s43465-025-01664-3) 
 ---
 
 ## 📌 Overview
