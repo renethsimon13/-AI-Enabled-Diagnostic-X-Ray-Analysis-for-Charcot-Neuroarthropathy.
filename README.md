@@ -172,12 +172,16 @@ The notebook is organised into 8 sections:
 If you use this work, please cite:
 
 ```bibtex
-@article{saju2024charcot,
-  title   = {Automated Detection and Classification of Charcot Neuroarthropathy
-             Using Deep Learning},
-  author  = {Saju, Reneth and ...},
+@article{Simon2026charcot,
+  title   = {Charcot Neuroarthropathy: Identification and Classification Using Artificial Intelligence (AI)},
+  author  = {Simon, Reneth Raj and Singh, D. Inderjit and Abraham, Ani Susan and Vishavadia, M. S. Pratik and Simon, M. S. Rajesh},
   journal = {Indian Journal of Orthopaedics},
-  year    = {2024}
+  year    = {2026},
+  month   = {02},
+  day     = {12},
+  issn    = {1998-3727},
+  doi     = {10.1007/s43465-025-01664-3},
+  url     = {https://doi.org/10.1007/s43465-025-01664-3}
 }
 ```
 
